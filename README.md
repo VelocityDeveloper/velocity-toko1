@@ -1,6 +1,6 @@
-Velocity Child Theme Paket Toko Online Toko 32
+Velocity Child Theme Paket Toko Online Toko 1
 =================
-[toko32.velocitydeveloper.com](https://www.toko32.velocitydeveloper.com/)
+[toko1.velocitydeveloper.com](https://www.toko1.velocitydeveloper.com/)
 
 Child Theme for the Velocity System WordPress theme.
 
